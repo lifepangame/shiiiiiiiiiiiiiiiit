@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>SHIT(shit.com)</title>
+</head>
+<body>
+
+    <h1>I'm a dog of ほしの
+<HR>
+<!--这是一坨shit，注释在浏览器中不会显示-->
+        <p>你好，<br>我是山里灵活的dog</p>
+<HR>
+        <a href="https://www.runoob.com/"><strong>Click here.<br>This is great website</strong></a>
+<HR>
+        <p>The <abbr tittle="Document Type Declaration">DOCTYPE</abbr> was a shit</p>
+        <hr>
+        <address>
+            Written by <a href="shit.com">JOHNNING</a>.<br> 
+            </address>
+            <hr>
+            <p>请选择你的英雄
+            <p>
+                <select>
+                <option value="狂魔哥">狂魔哥</option>
+                <option value="孙红雷">孙红雷</option>
+                <option value="爱泼斯坦">爱泼斯坦</option>
+                <option value="科比">牢大</option>
+                <option value="鸡哥">蔡徐坤</option>  
+            </select>
+            </p>
+    </body>
+</html>
